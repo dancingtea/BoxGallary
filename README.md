@@ -9,7 +9,7 @@ Iridescence is the effect of light interference due to thin film layers. Below f
 
 ![iridescene](images/iridescene_400.jpg)
 
-The left Suzanne with 400nm thin-film layer thickness value while the right Suzanne has purple attenuation colour. 
+The left Suzanne with 550nm thin-film layer thickness value while the right Suzanne has purple attenuation colour. 
 
 ![iridescene_550](images/iridescene_550.jpg)
 

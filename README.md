@@ -1,5 +1,11 @@
 # BoxGallary
- BoxGallary collects results from my spare time renderer. It features Physically Base Rendering.
+BoxGallary collects rendered images from my real-time renderer(C++). It aims for supporting all features in [glTF](https://github.com/KhronosGroup/glTF) such as PBR.
+
+Chess showcases of [KHR_materials_volume](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Khronos/KHR_materials_volume/README.md), [KHR_materials_transmission]https://github.com/KhronosGroup/glTF/tree/main/extensions/2.0/Khronos/KHR_materials_transmission)
+
+![chess1](images/chess1.jpg)
+
+![chess1](images/chess2.jpg)
 
 The dragon features transmission and volume where different thickness leads to different attenuation (colour appears yellowish at foot).
 
